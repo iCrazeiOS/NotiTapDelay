@@ -1,0 +1,9 @@
+Package: com.icraze.notitapdelay
+Name: NotiTapDelay
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable tapping notification banners for the first 0.5 seconds of it appearing. This helps avoid accidental clicks.
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
